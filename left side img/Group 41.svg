@@ -1,0 +1,42 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="#E5E5E5"/>
+<g id="Wigs - Ecommerce Website UI" clip-path="url(#clip0_0_1)">
+<rect width="1600" height="1200" transform="translate(-140 -988)" fill="#E2E7ED"/>
+<g id="Rectangle 17" filter="url(#filter0_b_0_1)">
+<rect x="-140" y="-989" width="1600" height="1200" fill="#E5E9EF" fill-opacity="0.8"/>
+</g>
+<path id="Ellipse 136" d="M474 -15.9619C474 -82.8094 354.46 -137 207 -137C59.54 -137 -60 -82.8094 -60 -15.9619C-54 90.3707 -81.9999 114.691 207 105.076C354.46 105.076 474 50.8856 474 -15.9619Z" fill="#5D9CE6"/>
+<g id="Wigs - Ecommerce Website UI_2" filter="url(#filter1_b_0_1)">
+<rect x="-60" y="-883" width="1440" height="990" rx="20" fill="white" fill-opacity="0.8"/>
+<g id="Sidebar">
+<g id="Group 53">
+<g id="Side bar Icons">
+<g id="Group 42">
+<g id="Group 41">
+<circle id="Ellipse 14" cx="23.5649" cy="24.0305" r="23.5649" fill="#F6F6F6"/>
+<path id="Vector" d="M30.5621 26.7443C30.7093 26.4334 30.8373 26.1166 30.9468 25.7947H30.9187C32.8369 20.1564 28.8029 14.2305 22.8475 13.9419C22.8474 13.9416 22.8474 13.9413 22.8473 13.941C17.723 13.7046 13.4657 17.8131 13.4657 22.9077C13.4657 27.8534 17.4797 31.8771 22.4167 31.8843C23.7559 31.8825 25.0394 31.5938 26.2364 31.0253C30.9084 31.9502 30.544 31.8845 30.6513 31.8845C31.1369 31.8845 31.4996 31.4389 31.4048 30.9642L30.5621 26.7443Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_0_1" x="-374" y="-1223" width="2068" height="1668" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="117"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_0_1" result="shape"/>
+</filter>
+<filter id="filter1_b_0_1" x="-144" y="-967" width="1608" height="1158" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="42"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1600" height="1200" fill="white" transform="translate(-140 -988)"/>
+</clipPath>
+</defs>
+</svg>
